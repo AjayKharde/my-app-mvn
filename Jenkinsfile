@@ -4,7 +4,7 @@
    }
     
     stage('Compile-Package'){
-          sh "mvn package"
+          "mvn package"
    }
     
      
